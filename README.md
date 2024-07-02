@@ -8,6 +8,4 @@ Welcome to my GitHub profile! I'm an experienced iOS developer with a strong fou
 
 🔭 I’m currently working on VaultsPay.
 
-🌱 I’m currently learning SwiftUI.
-
 📫 How to reach me: Zafran55@icloud.com.
